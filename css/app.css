@@ -452,7 +452,7 @@ a {
 
 @media (max-width:600px) {
     .features-section{
-        padding:20%;
+        padding:20px;
     }
 }
 
@@ -603,7 +603,7 @@ a {
 
 @media (max-width:600px) {
     .section-title {
-       padding: 20%;
+       padding: 20px;
       }
 }
 
