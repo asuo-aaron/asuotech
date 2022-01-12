@@ -446,6 +446,12 @@ a {
     color: #ffffff;
 }
 
+@media only screen and(max-width:600px) {
+    .features-section{
+        padding:20%;
+    }
+}
+
 
 
 
@@ -584,6 +590,12 @@ a {
     padding: 0;
   }
   
+@media only screen and (max-width:600px) {
+    .form-sub{
+        padding:7px;
+    
+    }                   
+}
 
 
 
