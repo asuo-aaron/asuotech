@@ -602,7 +602,7 @@ a {
 }
 
 @media only screen and (max-width:600px) {
-    #portfolio {
+    .section-title {
        padding: 20%;
       }
 }
