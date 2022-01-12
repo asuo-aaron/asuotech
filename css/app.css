@@ -323,12 +323,12 @@ a {
     }   
 }
 
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
     .mybtn1 {
       margin: 10px;
     }
   }
-@media only screen and (max-width:600px) {
+@media (max-width:600px) {
     .why-us {
        padding:15px;
     }
@@ -367,7 +367,7 @@ a {
     font-size: 16px;
     line-height: 26px;
     color: #555555;
-    font-weight: 400;
+    font-weight: 400px;
 }
 
 
@@ -378,7 +378,7 @@ a {
 }
 
 
-@media only screen and (max-width:600px) {
+@media (max-width:600px) {
     .user-image{
        width: 10%;
     }
@@ -450,7 +450,7 @@ a {
     color: #ffffff;
 }
 
-@media only screen and(max-width:600px) {
+@media (max-width:600px) {
     .features-section{
         padding:20%;
     }
@@ -594,14 +594,14 @@ a {
     padding: 0;
   }
   
-@media only screen and (max-width:600px) {
+@media (max-width:600px) {
     .form-sub{
         padding:7px;
     
     }                   
 }
 
-@media only screen and (max-width:600px) {
+@media (max-width:600px) {
     .section-title {
        padding: 20%;
       }
@@ -982,6 +982,12 @@ a {
      line-height: 26px;
      color: #555555;
      margin:0;
+}
+
+@media (max-width:600px) {
+    .contact-section{
+        padding:20%;
+    }
 }
 
 /*  ----- Contact Section End ---- */
