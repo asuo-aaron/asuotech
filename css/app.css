@@ -452,7 +452,7 @@ a {
 
 @media only screen and(max-width:600px) {
     .features-section{
-        padding:20%;
+        padding:30%;
     }
 }
 
@@ -595,11 +595,19 @@ a {
   }
   
 @media only screen and (max-width:600px) {
-    #form-sub{
+    .form-sub{
         padding:7px;
     
     }                   
 }
+
+@media only screen and (max-width:600px) {
+    #portfolio {
+       padding: 20%;
+      }
+}
+
+
 
 
 
