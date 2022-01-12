@@ -351,9 +351,7 @@ a {
 
 .about-section .about-img img {
     /* border: 2px solid black; */
-    max-width: 750px;
-    width: 500px; 
-    height: 500px;   
+  
 }
 
 .about-section .section-title {
@@ -369,20 +367,20 @@ a {
 }
 
 
-.user-img{
+.about-img img {
     border-radius: 100% 0 100% 100%;
+    max-width: 100%;
+    max-height: auto;
 }
 
-.about-img {
-    padding-top:12%;
-    padding-right: 5%;
-}
 
 @media only screen and (max-width:600px) {
-    .bout-img user-img{
-        width:5px;
+    .user-image{
+       width: 10%;
     }
 }
+
+ 
 
 
 /* ----- About Section End ----- */
