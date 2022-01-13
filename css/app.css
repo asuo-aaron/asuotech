@@ -330,7 +330,7 @@ a {
   }
 @media only screen and (max-width:600px) {
     .why-us {
-       padding:15%;
+       padding-top:15%;
     }
 }
 
@@ -342,7 +342,7 @@ a {
 
 .about-section {
     background-color: #ffffff;
-    padding: 80px 0 80px;
+    padding: 70px 0 80px;
 }
 
 /* .about-section .col-lg-6 {
@@ -395,8 +395,8 @@ a {
 /* ----- Features Section Start ----- */
 .features-section {
     background-color: #f5f5ff;
-    padding-top: 7%;
-    padding-bottom: 5%;
+    padding-top: 4%;
+    padding-bottom: 4%;
 }
 
 .features-section .features-item {
@@ -468,7 +468,7 @@ a {
 #portfolio {
     position: relative;
     padding-bottom: 50px;
-    padding-top: 10%;
+    padding-top: 8%;
   }
   #portfolio #portfolio-flters {
     padding: 0;
@@ -603,7 +603,7 @@ a {
 
 @media only screen and (max-width:600px) {
     .section-title {
-       padding-top: 20%;
+       padding-top: 10%;
       }
 }
 
@@ -727,7 +727,7 @@ a {
 /* ----- Testimonial Section Start ----- */
 
 .testimonial-section {
-    padding: 80px 0 80px;
+    padding: 70px 0 80px;
     background-image: url("/images/bg-01.jpg");
     background-position: center;
     background-attachment: fixed;
@@ -922,7 +922,7 @@ a {
 
 .contact-section {
     background-color: #ffffff;
-    padding: 80px 0 80px;
+    padding: 70px 0 80px;
 }
 
 .contact-section .contact-form .form-group {
